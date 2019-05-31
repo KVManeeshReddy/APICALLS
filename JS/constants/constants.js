@@ -1,0 +1,1 @@
+export const baseURL = "https://api.pokemontcg.io/v1/cards"; //BASE_URL
