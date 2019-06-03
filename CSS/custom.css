@@ -37,7 +37,7 @@
         font-family: 'Segoe UI';
         margin-top: 2em;
         margin-bottom: 0;
-        position: sticky;
+        position: fixed;
         width: 100%;
         bottom: 0;
     }
